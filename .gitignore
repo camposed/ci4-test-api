@@ -1,0 +1,22 @@
+# CodeIgniter specific
+writable/
+-public/assets/
+-public/uploads/
+
+# Composer
+/vendor/
+
+# Application specific
+.env
+env
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+system/
+test/
